@@ -1,17 +1,25 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+# 👋 Hey, I'm Rifa Andhika
+
+![GitHub followers](https://img.shields.io/github/followers/rifaandhika?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/rifaandhika?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/rifaandhika/cv?style=for-the-badge&color=blue)
+![Repo Size](https://img.shields.io/github/repo-size/rifaandhika/cv?style=for-the-badge)
+![License](https://img.shields.io/github/license/rifaandhika/cv?style=for-the-badge)
+
+---
 
 ## 💫 About Me
-🔭 Currently studying **Informatika** at **STMIK Mardira Indonesia** (Semester 4)  
-🌱 Exploring **Next.js** & **Laravel**  
+🔭 Mahasiswa **Informatika** di **STMIK Mardira Indonesia** (Semester 4)  
+🌱 Sedang mendalami **Next.js** & **Laravel**  
 💻 Fokus di pengembangan web: JavaScript, TypeScript, PHP  
 🌐 Online CV: [rifaandhika.github.io/cv](https://rifaandhika.github.io/cv/)  
-📫 Reach me at **rifaandhika9@gmail.com**
+📫 Email: **rifaandhika9@gmail.com**
 
 ---
 
 ## 🌐 Socials
 <p align="left">
-<a href="https://www.linkedin.com/in/USERNAME-LINKEDIN-KAMU" target="_blank">
+<a href="https://www.linkedin.com/in/rifaandhika" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:rifaandhika9@gmail.com">
@@ -43,26 +51,23 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RifaAndhika&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RifaAndhika&theme=tokyonight&hide_border=false" height="165"/>
-</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rifaandhika&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rifaandhika&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifaandhika&theme=tokyonight&hide_border=false" height="165"/>
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaandhika&theme=tokyonight&hide_border=false&layout=compact" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=rifaandhika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RifaAndhika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
+<img src="https://github-profile-trophy.vercel.app/?username=rifaandhika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
 ---
 
 ## 📈 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RifaAndhika&label=Profile%20views&color=0e75b6&style=flat" alt="RifaAndhika"/>
+<img src="https://komarev.com/ghpvc/?username=rifaandhika&label=Profile%20views&color=0e75b6&style=flat" alt="rifaandhika"/>
 </p>
