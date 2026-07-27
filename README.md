@@ -65,8 +65,8 @@
 ## 📌 Proyek Unggulan
 
 <div align="center">
-<a href="https://github.com/rifaandhika/job-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rifaandhika&repo=job-tracker&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/RifaAndhika/job_tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RifaAndhika&repo=job-tracker&theme=tokyonight&hide_border=true" />
 </a>
 </div>
 
