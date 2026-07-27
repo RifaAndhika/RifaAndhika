@@ -12,7 +12,7 @@
 - 🌱 Sedang memperdalam **Next.js** dan **Laravel**
 - 💻 Fokus di pengembangan web: front-end & back-end
 - 🔧 Terbiasa belajar mandiri dan senang memecahkan masalah lewat kode
-- 📌 Proyek yang sedang berjalan: [`job_tracker`](https://github.com/RifaAndhika/job_tracker) — aplikasi pelacak lamaran kerja
+- 📌 Proyek yang sedang berjalan: [`job_tracker`](https://github.com/rifaandhika/job-tracker) — aplikasi pelacak lamaran kerja
 - 📫 Bisa dihubungi lewat **rifaandhika9@gmail.com**
 
 <br>
@@ -52,20 +52,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RifaAndhika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RifaAndhika&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rifaandhika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifaandhika&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifaAndhika&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RifaAndhika&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaandhika&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 <br>
@@ -73,17 +65,9 @@
 ## 📌 Proyek Unggulan
 
 <div align="center">
-<a href="https://github.com/RifaAndhika/job_tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RifaAndhika&repo=job_tracker&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/rifaandhika/job-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rifaandhika&repo=job-tracker&theme=tokyonight&hide_border=true" />
 </a>
-</div>
-
-<br>
-
-## 🐍 Aktivitas Kontribusi
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/RifaAndhika/RifaAndhika/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br>
@@ -93,9 +77,9 @@
 <p align="center">
 <a href="mailto:rifaandhika9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://wa.me/62895372107249"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/GANTI-LINKEDIN-KAMU"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rifaandhika"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RifaAndhika&label=Profile%20views&color=2DD4BF&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=rifaandhika&label=Profile%20views&color=2DD4BF&style=flat" alt="profile views" />
 </p>
