@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 🔭 Mahasiswa **Informatika** di **STMIK Mardira Indonesia** (Semester 4)  
-🌱 Sedang mendalami **Nodejs** ,**Next.js** & **Laravel**  
+🌱 Sedang mendalami **Next.js** & **Laravel**  
 💻 Fokus di pengembangan web: JavaScript, TypeScript, PHP  
 🌐 Online CV: [rifaandhika.github.io/cv](https://rifaandhika.github.io/cv/)  
 📫 Email: **rifaandhika9@gmail.com**
@@ -71,9 +71,11 @@
 Here are some highlighted projects from my GitHub:
 
 - [**CV Online**](https://github.com/rifaandhika/cv) → Website CV pribadi dengan HTML + CSS, di-hosting via GitHub Pages.  
-- [**Backend Testing**](https://github.com/rifaandhika/backend-testing) → Eksperimen rate limiter dengan Vitest + Supertest.  
-- [**Java CRUD GUI**](https://github.com/rifaandhika/java-crud-gui) → Aplikasi stok barang dengan Java Swing + JDBC.  
+- [**Backend Rate Limiter Testing**](https://github.com/rifaandhika/backend-testing) → Eksperimen rate limiter dengan Vitest + Supertest.  
+- [**Java CRUD GUI (stok_barang)**](https://github.com/rifaandhika/java-crud-gui) → Aplikasi stok barang dengan Java Swing + JDBC.  
 - [**Python Vision (Kicau Mania)**](https://github.com/rifaandhika/python-vision) → Hand tracking dengan Mediapipe + pygame.  
+- [**Node.js Job Tracker**](https://github.com/rifaandhika/job-tracker) → Backend project dengan CRUD, analytics, filtering, logging, refresh token, dan AppError architecture.  
+- [**Bansos Desa Digitalization**](https://github.com/rifaandhika/bansos-desa) → Sistem distribusi bansos dengan Node.js, Express, PostgreSQL (Supabase), Prisma.  
 
 ---
 
