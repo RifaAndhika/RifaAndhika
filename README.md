@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 🔭 Mahasiswa **Informatika** di **STMIK Mardira Indonesia** (Semester 4)  
-🌱 Sedang mendalami **Next.js** & **Laravel**  
+🌱 Sedang mendalami **Nodejs** ,**Next.js** & **Laravel**  
 💻 Fokus di pengembangan web: JavaScript, TypeScript, PHP  
 🌐 Online CV: [rifaandhika.github.io/cv](https://rifaandhika.github.io/cv/)  
 📫 Email: **rifaandhika9@gmail.com**
@@ -64,6 +64,16 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rifaandhika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
 </p>
+
+---
+
+## 🚀 Projects Showcase
+Here are some highlighted projects from my GitHub:
+
+- [**CV Online**](https://github.com/rifaandhika/cv) → Website CV pribadi dengan HTML + CSS, di-hosting via GitHub Pages.  
+- [**Backend Testing**](https://github.com/rifaandhika/backend-testing) → Eksperimen rate limiter dengan Vitest + Supertest.  
+- [**Java CRUD GUI**](https://github.com/rifaandhika/java-crud-gui) → Aplikasi stok barang dengan Java Swing + JDBC.  
+- [**Python Vision (Kicau Mania)**](https://github.com/rifaandhika/python-vision) → Hand tracking dengan Mediapipe + pygame.  
 
 ---
 
