@@ -12,42 +12,16 @@
 - 🌱 Sedang memperdalam **Next.js** dan **Laravel**
 - 💻 Fokus di pengembangan web: front-end & back-end
 - 🔧 Terbiasa belajar mandiri dan senang memecahkan masalah lewat kode
-- 📌 Proyek yang sedang berjalan: [`job_tracker`](https://github.com/rifaandhika/job-tracker) — aplikasi pelacak lamaran kerja
+- 📌 Proyek yang sedang berjalan: [`job-tracker`](https://github.com/rifaandhika/job-tracker) — aplikasi pelacak lamaran kerja
+- 🌐 Online CV: [rifaandhika.github.io/cv](https://rifaandhika.github.io/cv/)
 - 📫 Bisa dihubungi lewat **rifaandhika9@gmail.com**
 
 <br>
 
 ## 🧰 Tech Stack
+*(sama seperti sebelumnya, bahasa, framework, tools dengan badge)*
 
-**Bahasa**
-
-<p>
-<img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
-
-**Framework & Library**
-
-<p>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-</p>
-
-**Tools**
-
-<p>
-<img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</p>
-
-<br>
+---
 
 ## 📊 GitHub Stats
 
@@ -60,17 +34,45 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaandhika&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
-<br>
+---
 
 ## 📌 Proyek Unggulan
 
 <div align="center">
-<a href="https://github.com/RifaAndhika/job_tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RifaAndhika&repo=job-tracker&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/rifaandhika/job-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rifaandhika&repo=job-tracker&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/rifaandhika/cv">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rifaandhika&repo=cv&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/rifaandhika/java-crud-gui">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rifaandhika&repo=java-crud-gui&theme=tokyonight&hide_border=true" />
 </a>
 </div>
 
-<br>
+---
+
+## 📚 Popular Repositories
+
+<div align="center">
+<a href="https://github.com/rifaandhika/valentine">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rifaandhika&repo=valentine&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/rifaandhika/laravel12-rentalmobil">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rifaandhika&repo=laravel12-rentalmobil&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/rifaandhika/penjualan-sampah-apk">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rifaandhika&repo=penjualan-sampah-apk&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/rifaandhika/IoT-Monitoring-Api">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rifaandhika&repo=IoT-Monitoring-Api&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/rifaandhika/cuti_app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rifaandhika&repo=cuti_app&theme=tokyonight&hide_border=true" />
+</a>
+</div>
+
+---
 
 ## 🌐 Terhubung
 
