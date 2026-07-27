@@ -46,8 +46,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=RifaAndhika&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RifaAndhika&theme=tokyonight&hide_border=false" height="165"/>
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifaAndhika&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rifaandhika&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifaandhika&theme=tokyonight&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaandhika&theme=tokyonight&hide_border=false&layout=compact" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rifaandhika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+
 </p>
 
 ---
