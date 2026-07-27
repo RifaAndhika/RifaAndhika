@@ -1,31 +1,33 @@
 # 👋 Hey, I'm Rifa Andhika
 
-![GitHub followers](https://img.shields.io/github/followers/rifaandhika?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/rifaandhika?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/rifaandhika/cv?style=for-the-badge&color=blue)
-![Repo Size](https://img.shields.io/github/repo-size/rifaandhika/cv?style=for-the-badge)
-![License](https://img.shields.io/github/license/rifaandhika/cv?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/RifaAndhika?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/RifaAndhika?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/RifaAndhika/cv?style=for-the-badge&color=blue)
+![Repo Size](https://img.shields.io/github/repo-size/RifaAndhika/cv?style=for-the-badge)
+![License](https://img.shields.io/github/license/RifaAndhika/cv?style=for-the-badge)
 
 ---
 
 ## 💫 About Me
+
 🔭 Mahasiswa **Informatika** di **STMIK Mardira Indonesia** (Semester 4)  
 🌱 Sedang mendalami **Next.js** & **Laravel**  
 💻 Fokus di pengembangan web: JavaScript, TypeScript, PHP  
-🌐 Online CV: [rifaandhika.github.io/cv](https://rifaandhika.github.io/cv/)  
-📫 Email: **rifaandhika9@gmail.com**
+🌐 Online CV: [RifaAndhika.github.io/cv](https://RifaAndhika.github.io/cv/)  
+📫 Email: **RifaAndhika9@gmail.com**
 
 ---
 
 ## 🌐 Socials
+
 <p align="left">
-<a href="https://www.linkedin.com/in/rifaandhika" target="_blank">
+<a href="https://www.linkedin.com/in/RifaAndhika" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:rifaandhika9@gmail.com">
+<a href="mailto:RifaAndhika9@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://rifaandhika.github.io/cv/">
+<a href="https://RifaAndhika.github.io/cv/">
   <img src="https://img.shields.io/badge/CV%20Online-000000?style=for-the-badge&logo=githubpages&logoColor=white">
 </a>
 </p>
@@ -33,6 +35,7 @@
 ---
 
 ## 💻 Tech Stack
+
 <p align="left">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -50,36 +53,40 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rifaandhika&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifaandhika&theme=tokyonight&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RifaAndhika&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RifaAndhika&theme=tokyonight&hide_border=false" height="165"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaandhika&theme=tokyonight&hide_border=false&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifaAndhika&theme=tokyonight&hide_border=false&layout=compact" height="165"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rifaandhika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
+<img src="https://github-profile-trophy.vercel.app/?username=RifaAndhika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
 ---
 
 ## 🚀 Projects Showcase
+
 Here are some highlighted projects from my GitHub:
 
-- [**CV Online**](https://github.com/rifaandhika/cv) → Website CV pribadi dengan HTML + CSS, di-hosting via GitHub Pages.  
-- [**Backend Rate Limiter Testing**](https://github.com/rifaandhika/backend-testing) → Eksperimen rate limiter dengan Vitest + Supertest.  
-- [**Java CRUD GUI (stok_barang)**](https://github.com/rifaandhika/java-crud-gui) → Aplikasi stok barang dengan Java Swing + JDBC.  
-- [**Python Vision (Kicau Mania)**](https://github.com/rifaandhika/python-vision) → Hand tracking dengan Mediapipe + pygame.  
-- [**Node.js Job Tracker**](https://github.com/rifaandhika/job-tracker) → Backend project dengan CRUD, analytics, filtering, logging, refresh token, dan AppError architecture.  
-- [**Bansos Desa Digitalization**](https://github.com/rifaandhika/bansos-desa) → Sistem distribusi bansos dengan Node.js, Express, PostgreSQL (Supabase), Prisma.  
+- [**CV Online**](https://github.com/RifaAndhika/cv) → Website CV pribadi dengan HTML + CSS, di-hosting via GitHub Pages.
+- [**Backend Rate Limiter Testing**](https://github.com/RifaAndhika/backend-testing) → Eksperimen rate limiter dengan Vitest + Supertest.
+- [**Java CRUD GUI (stok_barang)**](https://github.com/RifaAndhika/java-crud-gui) → Aplikasi stok barang dengan Java Swing + JDBC.
+- [**Python Vision (Kicau Mania)**](https://github.com/RifaAndhika/python-vision) → Hand tracking dengan Mediapipe + pygame.
+- [**Node.js Job Tracker**](https://github.com/RifaAndhika/job-tracker) → Backend project dengan CRUD, analytics, filtering, logging, refresh token, dan AppError architecture.
+- [**Bansos Desa Digitalization**](https://github.com/RifaAndhika/bansos-desa) → Sistem distribusi bansos dengan Node.js, Express, PostgreSQL (Supabase), Prisma.
 
 ---
 
 ## 📈 Profile Views
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rifaandhika&label=Profile%20views&color=0e75b6&style=flat" alt="rifaandhika"/>
+<img src="https://komarev.com/ghpvc/?username=RifaAndhika&label=Profile%20views&color=0e75b6&style=flat" alt="RifaAndhika"/>
 </p>
